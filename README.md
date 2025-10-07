@@ -18,5 +18,5 @@
 - Automation Systems | Smart Interfaces | Scalable Architecture
 
 ## 📫 Let's Connect
-📧 Email: ashokg.professional@gmail.com
+📧 Email: gaireashok79@gmail.com
 
