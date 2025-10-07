@@ -9,8 +9,8 @@
 
 ## 💡 Projects
 - **E-commerce Sales Dashboard:** Interactive insights into revenue, customer behavior, and product trends.
-- **HR Analytics:** Predictive model for employee attrition with actionable insights and visual reporting.
-- **Smart Automation Tools:** Experimenting with AI-powered analysis and custom workflow solutions.
+- **Medical Dashboard:** A comprehensive healthcare analytics dashboard featuring patient management, interactive medical metrics visualization using Recharts, and a responsive design.
+- **Student Management System:** A comprehensive full-stack web application for managing student records with advanced features including enrollment tracking, grade management, and automated report generation.
 
 ## 🔍 Interests
 - Applied AI & Machine Learning  
