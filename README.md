@@ -1,22 +1,27 @@
 ## Hi there 👋
-🚀 Adaptive Learner | AI & ML Enthusiast | Software Developer  
-🔍 Focused on building intelligent tools, data-driven systems, and real-world automation with clean, scalable code.
+🚀 Software Developer | AI & ML Enthusiast | Adaptive Learner
+💡 Focused on building scalable software systems, data-driven applications, and intelligent tools using clean, maintainable code and modern development practices.
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, Java, C++, HTML/CSS
-- **Tools & Frameworks:** TensorFlow, scikit-learn, pandas, NumPy, React, Node.js, MongoDB
-- **Dev Practices:** Git/GitHub, REST APIs, Agile development, CI/CD
+- **Languages:** Python, Java, C#, C, C++, JavaScript, TypeScript, SQL, MySQL, HTML5, CSS3, R
+- **Frameworks:** ASP.NET Core, Django, React, Node.js, Express.js, FastAPI, Flask, Entity Framework Core
+- **Databases & APIs:** SQL Server, MySQL, MongoDB, RESTful APIs, JWT Authentication
+- **AI/ML & Data:** CNN, NLP, PyTorch, TensorFlow, Scikit-learn, pandas, NumPy, Matplotlib, OpenCV
+- **Others:** Git/GitHub, Linux CLI, Docker, AWS, JUnit, WebSocket, JWT, Agile/SDLC, Testing
 
 ## 💡 Projects
-- **E-commerce Sales Dashboard:** Interactive insights into revenue, customer behavior, and product trends.
-- **Medical Dashboard:** A comprehensive healthcare analytics dashboard featuring patient management, interactive medical metrics visualization using Recharts, and a responsive design.
-- **Student Management System:** A comprehensive full-stack web application for managing student records with advanced features including enrollment tracking, grade management, and automated report generation.
+- **NKU "Found It":** It is a full-stack web application developed using Django and React to manage and track lost-and-found items across campus, implementing secure authentication, role-based access, and relational database design. The project followed SDLC and Agile practices, focusing on scalable backend services, data integrity, and user-friendly interfaces.
+- **Medical Dashboard:** Developed an interactive healthcare analytics dashboard using ASP.NET Core, C#, SQL Server, and Recharts to visualize patient metrics and trends, supporting efficient data-driven insights.
+- **Student Management System:** Designed a full-stack system for managing student records, enrollment, and academic tracking using TypeScript, RESTful APIs, and role-based access control, emphasizing security and maintainability.
+- **Spam Detection Engine:** Built a machine learning–based classification system using Naive Bayes, Random Forest, and Logistic Regression, enhanced with ensemble techniques. Implemented automated feature engineering pipelines to efficiently process large-scale datasets and improve model accuracy.
 
 ## 🔍 Interests
-- Applied AI & Machine Learning  
-- Intelligent Dashboards & Visual Analytics  
-- Automation Systems | Smart Interfaces | Scalable Architecture
+- Software Engineering & Backend Systems
+- Applied AI & Machine Learning
+- Data Visualization & Analytics
+- Automation, Scalable Architecture, and Enterprise Applications
 
 ## 📫 Let's Connect
 📧 Email: gaireashok79@gmail.com
+💼 LinkedIn: linkedin.com/in/ashok-gaire3
 
